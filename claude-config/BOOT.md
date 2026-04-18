@@ -1,0 +1,1 @@
+Go to github.com/cademerritt/claude-config and read CLAUDE.md. Then read MEMORY.md in the memory/ folder and load the 2 most recent session files. Follow all instructions and pick up where we left off.
